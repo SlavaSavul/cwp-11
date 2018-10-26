@@ -1,0 +1,102 @@
+[
+  {
+    "id": "1",
+    "title": "  Побег из Шоушенка",
+    "rating": "8.1",
+    "year": 1994,
+    "budget": 30000000,
+    "gross": 151101803,
+    "poster": "https://www.kinopoisk.ru/film/pobeg-iz-shoushenka-1994-326/",
+    "position": 1
+  },
+  {
+    "id": "2",
+    "title": "  Зеленая миля",
+    "rating": "8.1",
+    "year": 1999,
+    "budget": 1200000,
+    "gross": 2832029,
+    "poster": "https://www.kinopoisk.ru/images/film_big/394.jpg",
+    "position": 2
+  },
+  {
+    "id": "3",
+    "title": "  Форрест Гамп",
+    "rating": "8.1",
+    "year": 1994,
+    "budget": 125000000,
+    "gross": 40000000,
+    "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_689.jpg",
+    "position": 3
+  },
+  {
+    "id": "4",
+    "title": "  Список Шиндлера",
+    "rating": "8.1",
+    "year": 1993,
+    "budget": 20000000,
+    "gross": 34400301,
+    "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_5492.jpg",
+    "position": 4
+  },
+  {
+    "id": "5",
+    "title": "1 + 1",
+    "rating": "8.1",
+    "year": 1997,
+    "budget": 2400000000,
+    "gross": 2375308,
+    "poster": "https://www.kinopoisk.ru/images/film_big/441.jpg",
+    "position": 5
+  },
+  {
+    "id": "6",
+    "title": "Леон",
+    "rating": "8.1",
+    "year": 2004,
+    "budget": 130000000,
+    "gross": 50000000,
+    "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_322.jpg",
+    "position": 6
+  },
+  {
+    "id": "7",
+    "title": "Начало",
+    "rating": "8.1",
+    "year": 2010,
+    "budget": 45000000,
+    "gross": 93466502,
+    "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_258885.jpg",
+    "position": 7
+  },
+  {
+    "id": "8",
+    "title": "Король Лев",
+    "rating": "8.1",
+    "year": 1994,
+    "budget": 31500000,
+    "gross": 83471511,
+    "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_354.jpg",
+    "position":8
+  },
+  {
+    "id": "9",
+    "title": "Бойцовский клуб",
+    "rating": "8.1",
+    "year": 1999,
+    "budget": 60000000,
+    "gross": 264118201,
+    "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_22907.jpg",
+    "position": 9
+  },
+  {
+    "id": "10",
+    "title": "Иван Васильевич меняет профессию",
+    "rating": "8.1",
+    "year": 1973,
+    "budget": 88000000,
+    "gross": 108539911,
+    "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_692861.jpg",
+    "position": 10
+  }
+]
